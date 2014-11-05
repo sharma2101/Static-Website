@@ -1,0 +1,68 @@
+@charset "UTF-8";
+
+body { 
+  background-image: url("background.jpg"); 
+  background-repeat:no-repeat;	
+  background-size: cover;
+}
+
+
+.mainNav nav{
+	font-family:"calibri";
+	font-style:normal;
+	font-size:large;
+	color: #FFFFFF;
+	font-weight:400;
+	letter-spacing:12px;
+	word-spacing: 12px;
+	position:relative;
+	text-align:center;
+	
+	
+	}
+	
+	a.active {
+	text-decoration: none;
+	}
+	
+	a:link {
+	color:#FFFFFF;
+	font-size:120%;
+	text-decoration: underline;
+	
+	}
+	
+	a:visited {
+	color:#FFFFFF;
+	text-decoration: none;
+	}
+	
+	
+	a:hover   {
+	color:#FFFFFF;
+	text-decoration: none;
+	}
+	
+	a:active{
+	color:#FFFFFF;
+	text-decoration: none;
+	}
+	
+	#link{
+	text-align:center;
+	margin-top:700px;
+	}
+	
+	#official{
+	
+	font-family:"calibri";
+	font-style:normal;
+	font-size:large;
+	color: #FFFFFF;
+	font-weight:400;
+	letter-spacing:12px;
+	word-spacing: 12px;
+	position:relative;
+	text-align:center;
+	text-decoration: none;
+	}

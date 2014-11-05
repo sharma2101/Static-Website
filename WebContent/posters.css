@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+
+div {
+	margin: auto;
+	width: 70%;
+	height:100%;
+}
+
+.posters {
+	margin-top: 6%;
+
+}
+
+
+.posters h1{
+	
+	color: #FFFFFF;
+	text-align: center;
+	font-family:"calibri";
+	font-style:normal;
+	font-size:50px;
+	color: #FFFFFF;
+	font-weight:bold;
+	letter-spacing:30px;
+	margin-top: 10px;
+	
+	
+}
+
+#p1{
+	float:left;
+	border:5px solid teal;
+	width:55%;
+	height: 50%;
+}
+
+#p2{
+	float:right;
+	width:40%;
+	height: 50%;
+	border:5px solid blue;
+	
+	
+}
+
+#p3{
+	clear:both;
+	width:98.8%;
+	height:50%;
+	border:5px solid green;
+	margin-top: 2%;
+}

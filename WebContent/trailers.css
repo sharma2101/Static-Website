@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+h1{
+	
+	color: #FFFFFF;
+	text-align: center;
+	font-family:"calibri";
+	font-style:normal;
+	font-size:50px;
+	color: #FFFFFF;
+	font-weight:bold;
+	letter-spacing:30px;
+	margin-top: 30px;
+	
+	
+}
+.trailers{
+	
+	width:70%;
+	margin: auto;
+}
+
+#v1{
+	height: 315px;
+	width: 560px;
+	margin-left:25%;
+	margin-top:1%;
+	}
+
+#v2{
+	height: 315px;
+	width: 560px;
+	margin-left:25%;  
+	}
